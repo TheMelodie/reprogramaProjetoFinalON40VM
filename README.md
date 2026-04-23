@@ -1,2 +1,2 @@
 # reprogramaProjetoFinalON40VM
-repo com minhas bases de dados utilizadas para confecção do meu projeto final do curso de análise de dados com python na turma on40 e meu projeto
+This is a repository containing my databases used for my final project in the Python data analysis course in the ON40 class, and my project.
